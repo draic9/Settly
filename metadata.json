@@ -1,0 +1,6 @@
+{
+  "name": "Settle",
+  "description": "Settle - Intelligent gym tracker, weekly workout planner, progressive overload engine, weight loss trend, and AI biomechanics visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
